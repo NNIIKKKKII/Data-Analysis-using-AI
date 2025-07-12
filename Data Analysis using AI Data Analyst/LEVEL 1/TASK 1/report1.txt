@@ -1,0 +1,12 @@
+The distribution of the "Aggregate rating" shows that most ratings are clustered around the higher end of the scale, with a significant number of restaurants receiving ratings between 3 and 4.5. There are fewer restaurants with very low ratings.
+
+Here are some key statistics for the "Aggregate rating":
+
+Mean: 2.67
+Standard Deviation: 1.52
+Minimum Rating: 0.0
+25th Percentile: 2.5
+Median (50th Percentile): 3.2
+75th Percentile: 3.7
+Maximum Rating: 4.9
+The distribution suggests that there might be a class imbalance, with more restaurants having higher ratings. This could be important to consider if you plan to perform any predictive modeling or further analysis based on these ratings.

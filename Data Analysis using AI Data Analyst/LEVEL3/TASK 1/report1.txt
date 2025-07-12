@@ -1,0 +1,2 @@
+12:05am
+The task involves building a regression model to predict restaurant ratings using various algorithms like Linear Regression, Decision Trees, and Random Forest. The process includes preparing the data by encoding categorical variables, splitting it into training and testing sets, and evaluating model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). The goal is to compare the effectiveness of different algorithms in predicting restaurant ratings.
